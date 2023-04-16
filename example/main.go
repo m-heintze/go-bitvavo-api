@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bitvavo/go-bitvavo-api"
+	"github.com/m-heintze/go-bitvavo-api"
 )
 
 /*
